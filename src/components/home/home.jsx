@@ -23,17 +23,20 @@ function Home() {
 
       <a href='#footer' className='scroll-down'>
         <hr />
-        <h5>scroll down</h5>
+        <h5>Scroll Abajo</h5>
         <BsMouse className='scroll' />
         <hr />
       </a>
 
       <h2>
-        <span>About Me</span> <br />
+        <span>Sobre mi:</span> <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis id
-          quos deserunt, maxime sint sunt tempore quidem ad praesentium itaque,
-          aspernatur, magnam culpa iste adipisci?
+         Mi nombre es Alexis, soy desarrollador en proceso de aprendijaze
+         de Tehuacán. Mi lenguaje de programación favorito es JavaScript, 
+         con él he aprendido muchas cosas y desarrollo las herramientas 
+         que me ofrece. Mi objetivo es usarlo para crear soluciones tecnológicas
+         a la medida de cualquier necesidad.
+         Estoy convencido de que el trabajo en equipo es la mejor forma de avanzar en cualquier trabajo o proyecto.
         </p>
       </h2>
 

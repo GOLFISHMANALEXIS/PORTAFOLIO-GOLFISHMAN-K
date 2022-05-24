@@ -3,19 +3,20 @@ import "./members.css";
 const Members = () => {
   return (
     <div id="members" className="container members-container">
-      <h1 className="member-txt">Members</h1>
+      <h1 className="member-txt">Muestra de proyectos:</h1>
       <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Chrys</h1>
-          <h3 className="position">Leader</h3>
+          <h1 className="name">RubiksCubeTesisIA_V</h1>
+          <h3 className="position">PYTHON</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+          Improvement of the program to solve a 3x3 rubick cube
+          through artificial intelligence with python,
+          purpose: Thesis on the application of artificial
+          intelligence for the automation of activities.
           </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
+          <a href="https://github.com/GOLFISHMANALEXIS/RubiksCubeTesisIA_V" className="contact-member">
+            <span>Ver mas</span>
           </a>
         </div>
       </div>
@@ -23,15 +24,15 @@ const Members = () => {
       <div className="member member-2">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">CChrys</h1>
-          <h3 className="position">Another Leader</h3>
+          <h1 className="name">Gesture-Controlled-Virtual-Mouse</h1>
+          <h3 className="position">PYTHON</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+          Virtually controlling computer using 
+          hand-gestures and voice commands. 
+          Using MediaPipe, OpenCV Python.
           </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
+          <a href="https://github.com/GOLFISHMANALEXIS/Gesture-Controlled-Virtual-Mouse" className="contact-member">
+            <span>Ver mas</span>
           </a>
         </div>
       </div>
@@ -39,15 +40,15 @@ const Members = () => {
       <div className="member member-3">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">CCChrys</h1>
-          <h3 className="position">Another Leader Again</h3>
+          <h1 className="name">Chat-Kary</h1>
+          <h3 className="position">REACT</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
+          CHAT_APP for my bride Karyme 
+          using react and firebase with 
+          implementation in netlify.
           </h4>
-          <a href="#contact" className="contact-member">
-            <span>contact</span>
+          <a href="https://github.com/GOLFISHMANALEXIS/Chat-Kary" className="contact-member">
+            <span>Ver mas</span>
           </a>
         </div>
       </div>

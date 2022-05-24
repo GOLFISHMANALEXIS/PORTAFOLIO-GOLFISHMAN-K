@@ -5,11 +5,11 @@ function Header() {
     <div id='home' className='container header-container'>
       <h3>
         <p>
-          I<span>'</span>m
+          <span>SOY</span>
         </p>
-        Chrys
+          Alexis Villegas
       </h3>
-      <h2>Front-End Web Developer</h2>
+      <h2>Web-App Developer</h2>
     </div>
   );
 }

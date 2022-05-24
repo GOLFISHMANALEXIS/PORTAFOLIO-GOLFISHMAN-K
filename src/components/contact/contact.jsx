@@ -1,39 +1,39 @@
 import "./contact.css";
-import { AiOutlineYoutube } from "react-icons/ai";
+import { AiOutlineGithub } from "react-icons/ai";
 import { AiOutlineWhatsApp } from "react-icons/ai";
 import { AiOutlineInstagram } from "react-icons/ai";
 
 function Contact() {
   return (
     <div id="contact" className="container contact-container">
-      <h1>Contact Me</h1>
+      <h1>Contactame:</h1>
       <div className="contact-links">
         <a
-          href="https://www.youtube.com/channel/UCzoBz4EKrLOvm3L4DDNc_pg"
+          href="https://github.com/GOLFISHMANALEXIS"
           className="contact youtube"
           target={"blank"}
         >
-          <AiOutlineYoutube className="icon" />
+          <AiOutlineGithub className="icon" />
           <h2>
-            youtube <span>Creative Ambition</span>
+            Github<span>GOLFISHMANALEXIS</span>
           </h2>
         </a>
 
         <a
-          href="https://wa.link/bywzv3"
+          href="https://api.whatsapp.com/send?phone=2382487262&text=Hi"
           className="contact whatsapp"
           target={"blank"}
         >
           <AiOutlineWhatsApp className="icon" />
           <h2>
-            whatsapp <span>+233 20 918 2598</span>
+            whatsapp <span>+238 248 7262</span>
           </h2>
         </a>
 
-        <a href="#" className="contact instagram">
+        <a href="https://www.instagram.com/alexis._.vi/" className="contact instagram">
           <AiOutlineInstagram className="icon" />
           <h2>
-            instagram <span>_Creative_Ambition_</span>
+            instagram <span>alexis._.vi</span>
           </h2>
         </a>
       </div>

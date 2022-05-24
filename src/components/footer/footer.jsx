@@ -10,31 +10,22 @@ function Footer() {
   return (
     <div id="footer" className="container footer-container">
       <h1>
-        That's all{" "}
+       Eso es todo!{" "}
         <a href="#home">
           <h2>
-            <BsMouse /> - scroll up -
+            <BsMouse /> - scroll Arriba -
           </h2>
         </a>
       </h1>
       <div className="social-links">
-        <a href="#">
+        <a href="https://www.instagram.com/alexis._.vi/">
           <BsInstagram className="social" />
         </a>
-        <a href="#">
+        <a href="https://www.facebook.com/alezis.munos">
           {" "}
           <FaFacebookF className="social" />
         </a>
-        <a href="#">
-          {" "}
-          <TiSocialDribbble className="social" />
-        </a>
-
-        <a href="#">
-          <TiSocialYoutube className="social" />
-        </a>
-
-        <a href="#">
+        <a href="https://github.com/GOLFISHMANALEXIS">
           <TiSocialGithub className="social" />
         </a>
       </div>
