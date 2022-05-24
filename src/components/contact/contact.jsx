@@ -6,7 +6,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 function Contact() {
   return (
     <div id="contact" className="container contact-container">
-      <h1>Contactame:</h1>
+      <h1>Contáctame:</h1>
       <div className="contact-links">
         <a
           href="https://github.com/GOLFISHMANALEXIS"
