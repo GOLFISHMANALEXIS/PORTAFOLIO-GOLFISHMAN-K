@@ -20,7 +20,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://api.whatsapp.com/send?phone=2382487262&text=Hi"
+          href="https://api.whatsapp.com/send?phone=+522382487262&text=Hi"
           className="contact whatsapp"
           target={"blank"}
         >
